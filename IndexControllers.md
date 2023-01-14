@@ -1,5 +1,5 @@
 # 🥽 QuestProVRC Index Controllers
-Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) works in [VRChat](https://vrchat.com/) with **Fullbody Tracking**
+Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) works in [VRChat](https://vrchat.com/) with **Index Controllers**
 ## Getting Started
 ### Required Items : 
 * **[Oculus Software](https://www.oculus.com/download_app/?id=1582076955407037)**
