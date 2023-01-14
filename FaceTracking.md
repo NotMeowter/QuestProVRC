@@ -19,14 +19,13 @@ Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/qu
 # Step Two
 ### VRCFaceTracking
 * **Before opening SteamVR** Launch VRCFaceTracking.exe
-***
-# Step Two
+# Step Three
 ### SteamVR
 * Take off your headset and open the **[Steam](https://store.steampowered.com/about/)** Client.
 * Make sure you have **[SteamVR](https://store.steampowered.com/app/250820/SteamVR/)** Installed.
 * Open **SteamVR**
 * Put on your headset.
 
-# Step Three
+# Step Four
 ### VRChat
 * Launch [VRChat](https://vrchat.com/) in **SteamVR Mode**
