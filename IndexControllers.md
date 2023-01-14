@@ -4,7 +4,7 @@ Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/qu
 ### Required Items : 
 * **[Oculus Software](https://www.oculus.com/download_app/?id=1582076955407037)**
 * **[SteamVR](https://store.steampowered.com/app/250820/SteamVR/)**
-* **[Index Controllers](https://store.steampowered.com/app/1059550/Valve_Index_Controllers/)**
+* **[Two Index Controllers](https://store.steampowered.com/app/1059550/Valve_Index_Controllers/)**
 * **[OpenVR SpaceCalibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator)**
 * **Two SteamVR Compatible USB Dongles**
 
