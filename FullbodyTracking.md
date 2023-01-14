@@ -4,6 +4,7 @@ Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/qu
 ### Required Items : 
 * **[Oculus Software](https://www.oculus.com/download_app/?id=1582076955407037)**
 * **[SteamVR](https://store.steampowered.com/app/250820/SteamVR/)**
+* **[OpenVR SpaceCalibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator)**
 * **Three SteamVR Compatible Trackers**
 * **Three SteamVR Compatible USB Dongles**
 
@@ -19,15 +20,26 @@ Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/qu
 * Select **Launch** to begin using Air Link. 
 
 # Step Two
-### SteamVR and Fullbody
+### SteamVR
 * Take off your headset and open the **[Steam](https://store.steampowered.com/about/)** Client.
 * Make sure you have **[SteamVR](https://store.steampowered.com/app/250820/SteamVR/)** Installed.
 * Open **SteamVR**
-* Pair your trackers
+* Pair your Trackers.
 * Click the three lines on the top left, navigate to Devices > Pair Controller.
 * Follow the instructions provided
 
 # Step Three
+### Calibration
+* Open OpenVR SpaceCalibrator
+* Your reference space will be your reference point for calibration
+* Your target space will be what you are trying to calibrate
+* Hold them together
+* Click Start Calibration
+* Wave them in a figure eight motion
+* Do this until it looks perfect
+* [This video](https://www.youtube.com/watch?v=7r8l5RJdX8o) explains it nicely
+
+# Step Four
 ### VRChat
 * Put on your headset.
 * Launch [VRChat](https://vrchat.com/) in **SteamVR Mode**
