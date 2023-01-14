@@ -5,8 +5,8 @@ Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/qu
 * **[Oculus Software](https://www.oculus.com/download_app/?id=1582076955407037)**
 * **[SteamVR](https://store.steampowered.com/app/250820/SteamVR/)**
 * **[Index Controllers](https://store.steampowered.com/app/1059550/Valve_Index_Controllers/)**
-* **Two SteamVR Compatible USB Dongles**
 * **[OpenVR SpaceCalibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator)**
+* **Two SteamVR Compatible USB Dongles**
 
 ***
 
