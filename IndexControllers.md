@@ -34,8 +34,6 @@ Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/qu
 * Pair your controllers.
 * Click the three lines on the top left, navigate to Devices > Pair Controller.
 * Follow the instructions provided
-
-# Step Four
 ### Calibration
 * Open OpenVR SpaceCalibrator
 * Your reference space will be your reference point for calibration
@@ -47,7 +45,7 @@ Standard Documentation on how the [Meta Quest Pro](https://www.meta.com/quest/qu
 * [This video](https://www.youtube.com/watch?v=7r8l5RJdX8o) explains it nicely
 
 
-# Step Five
+# Step Four
 ### VRChat
 * Put on your headset.
 * Launch [VRChat](https://vrchat.com/) in **SteamVR Mode**
